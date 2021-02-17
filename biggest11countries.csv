@@ -1,0 +1,122 @@
+country,food_category,consumption,co2_emmission
+Bangladesh,Pork,0,0
+Bangladesh,Poultry,1.4,1.5
+Bangladesh,Beef,1.28,39.5
+Bangladesh,Lamb & Goat,1.33,46.58
+Bangladesh,Fish,18.07,28.85
+Bangladesh,Eggs,2.08,1.91
+Bangladesh,Milk - inc. cheese,21.91,31.21
+Bangladesh,Wheat and Wheat Products,17.47,3.33
+Bangladesh,Rice,171.73,219.76
+Bangladesh,Soybeans,0.61,0.27
+Bangladesh,Nuts inc. Peanut Butter,0.72,1.27
+Brazil,Pork,12.6,44.6
+Brazil,Poultry,45,48.34
+Brazil,Beef,39.25,1211.17
+Brazil,Lamb & Goat,0.62,21.71
+Brazil,Fish,10.01,15.98
+Brazil,Eggs,8.98,8.25
+Brazil,Milk - inc. cheese,149.28,212.63
+Brazil,Wheat and Wheat Products,53,10.11
+Brazil,Rice,32.13,41.12
+Brazil,Soybeans,3.62,1.63
+Brazil,Nuts inc. Peanut Butter,0.67,1.19
+China,Pork,38.43,136.02
+China,Poultry,13.2,14.18
+China,Beef,5.12,157.99
+China,Lamb & Goat,3.13,109.61
+China,Fish,21.01,33.55
+China,Eggs,18.76,17.23
+China,Milk - inc. cheese,32.66,46.52
+China,Wheat and Wheat Products,63.36,12.08
+China,Rice,78.18,100.05
+China,Soybeans,3.66,1.65
+China,Nuts inc. Peanut Butter,6.39,11.31
+India,Pork,0.28,0.99
+India,Poultry,1.88,2.02
+India,Beef,0.81,24.99
+India,Lamb & Goat,0.58,20.31
+India,Fish,4.71,7.52
+India,Eggs,2.58,2.37
+India,Milk - inc. cheese,84.5,120.36
+India,Wheat and Wheat Products,60.56,11.55
+India,Rice,69.49,88.93
+India,Soybeans,0.39,0.18
+India,Nuts inc. Peanut Butter,1.92,3.4
+Indonesia,Pork,2.98,10.55
+Indonesia,Poultry,7.5,8.06
+Indonesia,Beef,2.59,79.92
+Indonesia,Lamb & Goat,0.46,16.11
+Indonesia,Fish,25.65,40.95
+Indonesia,Eggs,4.88,4.48
+Indonesia,Milk - inc. cheese,14.82,21.11
+Indonesia,Wheat and Wheat Products,25.45,4.85
+Indonesia,Rice,134.62,172.27
+Indonesia,Soybeans,1.12,0.5
+Indonesia,Nuts inc. Peanut Butter,4.92,8.71
+Japan,Pork,20.62,72.98
+Japan,Poultry,19.42,20.86
+Japan,Beef,9.15,282.35
+Japan,Lamb & Goat,0.14,4.9
+Japan,Fish,31.1,49.66
+Japan,Eggs,19.15,17.59
+Japan,Milk - inc. cheese,72.06,102.64
+Japan,Wheat and Wheat Products,45.04,8.59
+Japan,Rice,59.85,76.59
+Japan,Soybeans,7.34,3.3
+Japan,Nuts inc. Peanut Butter,2.59,4.58
+Mexico,Pork,15.23,53.91
+Mexico,Poultry,30.12,32.35
+Mexico,Beef,15.33,473.05
+Mexico,Lamb & Goat,0.89,31.17
+Mexico,Fish,7.56,12.07
+Mexico,Eggs,18.34,16.85
+Mexico,Milk - inc. cheese,111.87,159.35
+Mexico,Wheat and Wheat Products,35.21,6.71
+Mexico,Rice,5.64,7.22
+Mexico,Soybeans,0.02,0.01
+Mexico,Nuts inc. Peanut Butter,2.51,4.44
+Nigeria,Pork,1.47,5.2
+Nigeria,Poultry,1.73,1.86
+Nigeria,Beef,2.33,71.9
+Nigeria,Lamb & Goat,2.72,95.25
+Nigeria,Fish,16.03,25.59
+Nigeria,Eggs,3.46,3.18
+Nigeria,Milk - inc. cheese,7.91,11.27
+Nigeria,Wheat and Wheat Products,20.82,3.97
+Nigeria,Rice,28.23,36.13
+Nigeria,Soybeans,2.6,1.17
+Nigeria,Nuts inc. Peanut Butter,6.93,12.27
+Pakistan,Pork,0,0
+Pakistan,Poultry,5.01,5.38
+Pakistan,Beef,8.82,272.17
+Pakistan,Lamb & Goat,2.46,86.15
+Pakistan,Fish,1.87,2.99
+Pakistan,Eggs,2.95,2.71
+Pakistan,Milk - inc. cheese,183.13,260.85
+Pakistan,Wheat and Wheat Products,113.63,21.67
+Pakistan,Rice,12.25,15.68
+Pakistan,Soybeans,0,0
+Pakistan,Nuts inc. Peanut Butter,0.83,1.47
+Russia,Pork,25.66,90.82
+Russia,Poultry,27.5,29.54
+Russia,Beef,16.98,523.97
+Russia,Lamb & Goat,1.4,49.03
+Russia,Fish,20.82,33.24
+Russia,Eggs,15.43,14.17
+Russia,Milk - inc. cheese,163.57,232.99
+Russia,Wheat and Wheat Products,130.99,24.98
+Russia,Rice,4.71,6.03
+Russia,Soybeans,0.05,0.02
+Russia,Nuts inc. Peanut Butter,1.62,2.87
+USA,Pork,27.64,97.83
+USA,Poultry,50.01,53.72
+USA,Beef,36.24,1118.29
+USA,Lamb & Goat,0.43,15.06
+USA,Fish,12.35,19.72
+USA,Eggs,14.58,13.39
+USA,Milk - inc. cheese,254.69,362.78
+USA,Wheat and Wheat Products,80.43,15.34
+USA,Rice,6.88,8.8
+USA,Soybeans,0.04,0.02
+USA,Nuts inc. Peanut Butter,7.86,13.91
